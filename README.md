@@ -12,10 +12,10 @@ python step4_evaluate.py                                    # results/summary.cs
 python step5_plots.py lda_k10_test_summary_s0               # results/figures/
 ```
 
-`--k` is 10 (flows) or 55 (subflows), `--text` is full or summary. `step3_random.py` and `step3_supervised.py` are lower and upper bounds, and `eda.ipynb` has dataset plots.
+`--k` is 10 (flows) or 55 (subflows), `--text` is full or summary. `step3_random.py` and `step3_supervised.py` are lower and upper bounds, and `notebooks/eda.ipynb` has dataset plots.
 
-The LLM parts need a GPU and were run on Kaggle: `kaggle_summarize.ipynb` makes the summaries (included as `data/summaries.csv`) and `kaggle_llm.ipynb` runs all LLM experiments. `step3_llm.py` also takes `--find running` (go through all of train instead of 400 conversations) and `--gold names|descriptions` (use the true labels as categories, for comparison).
+The LLM parts need a GPU and were run on Kaggle: `notebooks/kaggle_summarize.ipynb` makes the summaries (included as `data/summaries.csv`) and `notebooks/kaggle_llm.ipynb` runs all LLM experiments. `step3_llm.py` also takes `--find running` (go through all of train instead of 400 conversations) and `--gold names|descriptions` (use the true labels as categories, for comparison).
 
-## Use of AI
+## AI Declariation
 
-I used Claude Code for help with writing and debugging code, for checking the results, and for cleaning up the code before delivery.
+AI was used for help with writing and debugging code, for verifying the results, and for cleaning up the code before delivery.
