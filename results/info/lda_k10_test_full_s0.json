@@ -1,0 +1,124 @@
+{
+  "topics": {
+    "0": [
+      "subscription",
+      "like",
+      "okay",
+      "card",
+      "yes",
+      "check",
+      "payment",
+      "pay",
+      "want",
+      "sure"
+    ],
+    "1": [
+      "price",
+      "code",
+      "promo",
+      "sorry",
+      "prices",
+      "yesterday",
+      "item",
+      "change",
+      "buy",
+      "sale"
+    ],
+    "2": [
+      "email",
+      "address",
+      "username",
+      "refund",
+      "return",
+      "com",
+      "need",
+      "okay",
+      "item",
+      "like"
+    ],
+    "3": [
+      "try",
+      "okay",
+      "let",
+      "website",
+      "logging",
+      "card",
+      "just",
+      "log",
+      "work",
+      "sorry"
+    ],
+    "4": [
+      "membership",
+      "gold",
+      "level",
+      "silver",
+      "bronze",
+      "members",
+      "member",
+      "know",
+      "purchases",
+      "premium"
+    ],
+    "5": [
+      "number",
+      "username",
+      "password",
+      "need",
+      "phone",
+      "zip",
+      "new",
+      "code",
+      "okay",
+      "pin"
+    ],
+    "6": [
+      "shipping",
+      "status",
+      "okay",
+      "item",
+      "delivery",
+      "need",
+      "change",
+      "want",
+      "yes",
+      "like"
+    ],
+    "7": [
+      "code",
+      "promo",
+      "days",
+      "new",
+      "let",
+      "okay",
+      "use",
+      "ago",
+      "invalid",
+      "sorry"
+    ],
+    "8": [
+      "know",
+      "boots",
+      "jeans",
+      "jacket",
+      "stock",
+      "like",
+      "shirt",
+      "product",
+      "sure",
+      "okay"
+    ],
+    "9": [
+      "email",
+      "reset",
+      "send",
+      "link",
+      "address",
+      "phone",
+      "factor",
+      "lost",
+      "authentication",
+      "code"
+    ]
+  }
+}

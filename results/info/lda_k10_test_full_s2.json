@@ -1,0 +1,124 @@
+{
+  "topics": {
+    "0": [
+      "subscription",
+      "pay",
+      "like",
+      "okay",
+      "yes",
+      "link",
+      "sure",
+      "want",
+      "need",
+      "check"
+    ],
+    "1": [
+      "try",
+      "add",
+      "cart",
+      "item",
+      "okay",
+      "let",
+      "page",
+      "contacting",
+      "acmecorp",
+      "log"
+    ],
+    "2": [
+      "return",
+      "address",
+      "email",
+      "need",
+      "username",
+      "mail",
+      "like",
+      "item",
+      "purchase",
+      "com"
+    ],
+    "3": [
+      "shipping",
+      "status",
+      "fee",
+      "delivery",
+      "need",
+      "okay",
+      "level",
+      "membership",
+      "want",
+      "yes"
+    ],
+    "4": [
+      "email",
+      "username",
+      "number",
+      "phone",
+      "need",
+      "password",
+      "address",
+      "code",
+      "zip",
+      "new"
+    ],
+    "5": [
+      "card",
+      "credit",
+      "try",
+      "okay",
+      "method",
+      "payment",
+      "purchase",
+      "just",
+      "gift",
+      "yes"
+    ],
+    "6": [
+      "try",
+      "website",
+      "stock",
+      "okay",
+      "let",
+      "know",
+      "just",
+      "search",
+      "slow",
+      "sorry"
+    ],
+    "7": [
+      "email",
+      "refund",
+      "username",
+      "address",
+      "okay",
+      "check",
+      "status",
+      "com",
+      "need",
+      "just"
+    ],
+    "8": [
+      "know",
+      "jacket",
+      "price",
+      "like",
+      "boots",
+      "jeans",
+      "shirt",
+      "sure",
+      "want",
+      "yes"
+    ],
+    "9": [
+      "code",
+      "membership",
+      "promo",
+      "days",
+      "gold",
+      "members",
+      "bronze",
+      "silver",
+      "level",
+      "know"
+    ]
+  }
+}

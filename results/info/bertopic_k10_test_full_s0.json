@@ -1,0 +1,124 @@
+{
+  "topics": {
+    "0": [
+      "customer",
+      "agent",
+      "order",
+      "id",
+      "email",
+      "help",
+      "shipping",
+      "account",
+      "address",
+      "username"
+    ],
+    "1": [
+      "customer",
+      "agent",
+      "order",
+      "id",
+      "thank",
+      "help",
+      "account",
+      "shipping",
+      "today",
+      "address"
+    ],
+    "2": [
+      "subscription",
+      "agent",
+      "customer",
+      "account",
+      "id",
+      "pay",
+      "help",
+      "thank",
+      "today",
+      "like"
+    ],
+    "3": [
+      "agent",
+      "customer",
+      "password",
+      "phone",
+      "help",
+      "number",
+      "account",
+      "username",
+      "email",
+      "zip"
+    ],
+    "4": [
+      "agent",
+      "customer",
+      "stock",
+      "help",
+      "boots",
+      "know",
+      "cart",
+      "try",
+      "item",
+      "thank"
+    ],
+    "5": [
+      "try",
+      "customer",
+      "agent",
+      "website",
+      "card",
+      "help",
+      "logging",
+      "slow",
+      "search",
+      "ok"
+    ],
+    "6": [
+      "jacket",
+      "agent",
+      "customer",
+      "know",
+      "wash",
+      "help",
+      "shirt",
+      "water",
+      "washing",
+      "shrink"
+    ],
+    "7": [
+      "code",
+      "promo",
+      "agent",
+      "customer",
+      "days",
+      "ago",
+      "help",
+      "new",
+      "invalid",
+      "use"
+    ],
+    "8": [
+      "membership",
+      "agent",
+      "members",
+      "bronze",
+      "customer",
+      "year",
+      "purchases",
+      "gold",
+      "silver",
+      "premium"
+    ],
+    "9": [
+      "overnight",
+      "gum",
+      "10",
+      "pounds",
+      "butter",
+      "3999",
+      "5499",
+      "weight",
+      "agent",
+      "peanut"
+    ]
+  }
+}

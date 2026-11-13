@@ -1,0 +1,42 @@
+{
+  "model": "llama3.1:8b",
+  "found": [],
+  "categories": [
+    {
+      "name": "account_access"
+    },
+    {
+      "name": "manage_account"
+    },
+    {
+      "name": "order_issue"
+    },
+    {
+      "name": "product_defect"
+    },
+    {
+      "name": "purchase_dispute"
+    },
+    {
+      "name": "shipping_issue"
+    },
+    {
+      "name": "single_item_query"
+    },
+    {
+      "name": "storewide_query"
+    },
+    {
+      "name": "subscription_inquiry"
+    },
+    {
+      "name": "troubleshoot_site"
+    }
+  ],
+  "n_categories": 10,
+  "n_unassigned": 0,
+  "tokens": {
+    "prompt": 350974,
+    "answer": 7040
+  }
+}

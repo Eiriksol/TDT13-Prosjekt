@@ -1,0 +1,52 @@
+{
+  "model": "llama3.1:8b",
+  "found": [],
+  "categories": [
+    {
+      "name": "account_access",
+      "description": "username, password, and two-factor authentication"
+    },
+    {
+      "name": "manage_account",
+      "description": "subscription service added or removed, change profile info"
+    },
+    {
+      "name": "order_issue",
+      "description": "get status of an order or change an order, possibly shipping"
+    },
+    {
+      "name": "product_defect",
+      "description": "refunds and returns"
+    },
+    {
+      "name": "purchase_dispute",
+      "description": "bad price, out of stock, promo codes, billing"
+    },
+    {
+      "name": "shipping_issue",
+      "description": "check our update a shipment of an item"
+    },
+    {
+      "name": "single_item_query",
+      "description": "FAQ questions about jeans, boots, shirt or sweater"
+    },
+    {
+      "name": "storewide_query",
+      "description": "FAQ questions about pricing, timing, membership or features"
+    },
+    {
+      "name": "subscription_inquiry",
+      "description": "billing and updates of the premium subscription service"
+    },
+    {
+      "name": "troubleshoot_site",
+      "description": "website slow, search not working, credit card, cart not updating"
+    }
+  ],
+  "n_categories": 10,
+  "n_unassigned": 0,
+  "tokens": {
+    "prompt": 274798,
+    "answer": 7031
+  }
+}

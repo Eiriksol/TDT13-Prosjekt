@@ -1,0 +1,124 @@
+{
+  "topics": {
+    "0": [
+      "offered",
+      "price",
+      "accepted",
+      "cost",
+      "item",
+      "apologized",
+      "code",
+      "conversation",
+      "ended",
+      "explained"
+    ],
+    "1": [
+      "code",
+      "issue",
+      "promo",
+      "thanked",
+      "account",
+      "email",
+      "new",
+      "authentication",
+      "able",
+      "factor"
+    ],
+    "2": [
+      "issue",
+      "able",
+      "resolved",
+      "website",
+      "problem",
+      "logging",
+      "resolve",
+      "reported",
+      "issues",
+      "purchase"
+    ],
+    "3": [
+      "membership",
+      "ended",
+      "conversation",
+      "inquired",
+      "gold",
+      "shipping",
+      "information",
+      "explained",
+      "level",
+      "free"
+    ],
+    "4": [
+      "cart",
+      "boots",
+      "add",
+      "jeans",
+      "item",
+      "thanked",
+      "provided",
+      "shirt",
+      "pair",
+      "klein"
+    ],
+    "5": [
+      "account",
+      "username",
+      "password",
+      "able",
+      "access",
+      "thanked",
+      "number",
+      "identity",
+      "provided",
+      "new"
+    ],
+    "6": [
+      "order",
+      "shipping",
+      "issue",
+      "status",
+      "delivery",
+      "service",
+      "thanked",
+      "assisted",
+      "email",
+      "resolved"
+    ],
+    "7": [
+      "account",
+      "subscription",
+      "issue",
+      "payment",
+      "service",
+      "thanked",
+      "fee",
+      "status",
+      "refund",
+      "information"
+    ],
+    "8": [
+      "ended",
+      "information",
+      "conversation",
+      "provided",
+      "inquired",
+      "confirmed",
+      "satisfied",
+      "thanked",
+      "inquire",
+      "jacket"
+    ],
+    "9": [
+      "return",
+      "refund",
+      "item",
+      "assisted",
+      "process",
+      "order",
+      "information",
+      "processed",
+      "service",
+      "wrong"
+    ]
+  }
+}

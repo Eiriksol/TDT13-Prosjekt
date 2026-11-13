@@ -1,0 +1,124 @@
+{
+  "topics": {
+    "0": [
+      "return",
+      "refund",
+      "customer",
+      "agent",
+      "item",
+      "order",
+      "contacted",
+      "assisted",
+      "customers",
+      "issue"
+    ],
+    "1": [
+      "shipping",
+      "order",
+      "customer",
+      "agent",
+      "contacted",
+      "address",
+      "customers",
+      "delivery",
+      "change",
+      "service"
+    ],
+    "2": [
+      "subscription",
+      "customer",
+      "payment",
+      "agent",
+      "account",
+      "pay",
+      "premium",
+      "contacted",
+      "fee",
+      "extension"
+    ],
+    "3": [
+      "username",
+      "password",
+      "account",
+      "access",
+      "reset",
+      "customer",
+      "able",
+      "agent",
+      "phone",
+      "forgotten"
+    ],
+    "4": [
+      "customer",
+      "agent",
+      "ended",
+      "inquired",
+      "conversation",
+      "information",
+      "provided",
+      "jeans",
+      "boots",
+      "jacket"
+    ],
+    "5": [
+      "issue",
+      "card",
+      "customer",
+      "cart",
+      "able",
+      "purchase",
+      "stock",
+      "agent",
+      "credit",
+      "problem"
+    ],
+    "6": [
+      "code",
+      "promo",
+      "price",
+      "customer",
+      "new",
+      "agent",
+      "offered",
+      "issue",
+      "discount",
+      "accepted"
+    ],
+    "7": [
+      "membership",
+      "levels",
+      "customer",
+      "benefits",
+      "agent",
+      "inquired",
+      "year",
+      "premium",
+      "ended",
+      "gold"
+    ],
+    "8": [
+      "website",
+      "issue",
+      "reported",
+      "search",
+      "problem",
+      "cookies",
+      "steps",
+      "issues",
+      "logging",
+      "customer"
+    ],
+    "9": [
+      "gift",
+      "wrapping",
+      "499",
+      "cost",
+      "characters",
+      "pricing",
+      "stitched",
+      "inquired",
+      "item",
+      "character"
+    ]
+  }
+}

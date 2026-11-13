@@ -1,0 +1,124 @@
+{
+  "topics": {
+    "0": [
+      "code",
+      "promo",
+      "price",
+      "issue",
+      "offered",
+      "new",
+      "thanked",
+      "accepted",
+      "explained",
+      "days"
+    ],
+    "1": [
+      "order",
+      "item",
+      "refund",
+      "add",
+      "service",
+      "assisted",
+      "ordered",
+      "shipped",
+      "new",
+      "items"
+    ],
+    "2": [
+      "account",
+      "subscription",
+      "issue",
+      "refund",
+      "payment",
+      "thanked",
+      "status",
+      "service",
+      "resolved",
+      "information"
+    ],
+    "3": [
+      "information",
+      "ended",
+      "provided",
+      "conversation",
+      "jacket",
+      "satisfied",
+      "thanked",
+      "inquired",
+      "purchasing",
+      "washing"
+    ],
+    "4": [
+      "account",
+      "username",
+      "able",
+      "access",
+      "password",
+      "thanked",
+      "phone",
+      "reset",
+      "provided",
+      "email"
+    ],
+    "5": [
+      "issue",
+      "able",
+      "resolved",
+      "website",
+      "problem",
+      "resolve",
+      "reported",
+      "logging",
+      "thanked",
+      "issues"
+    ],
+    "6": [
+      "return",
+      "process",
+      "assisted",
+      "item",
+      "information",
+      "processed",
+      "necessary",
+      "refund",
+      "label",
+      "service"
+    ],
+    "7": [
+      "boots",
+      "ended",
+      "conversation",
+      "information",
+      "provided",
+      "inquired",
+      "thanked",
+      "jeans",
+      "satisfied",
+      "pair"
+    ],
+    "8": [
+      "membership",
+      "ended",
+      "conversation",
+      "inquired",
+      "information",
+      "informed",
+      "explained",
+      "gold",
+      "thanked",
+      "level"
+    ],
+    "9": [
+      "order",
+      "shipping",
+      "address",
+      "delivery",
+      "issue",
+      "change",
+      "status",
+      "thanked",
+      "service",
+      "account"
+    ]
+  }
+}

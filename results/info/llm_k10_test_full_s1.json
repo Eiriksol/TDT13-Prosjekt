@@ -1,0 +1,535 @@
+{
+  "model": "llama3.1:8b",
+  "found": [
+    {
+      "name": "subscription_status",
+      "description": "inquiry about subscription status and due date"
+    },
+    {
+      "name": "subscription_payment",
+      "description": "inquiring about payment for a subscription"
+    },
+    {
+      "name": "shipping",
+      "description": "Inquiring about or requesting changes to shipping"
+    },
+    {
+      "name": "order_modification",
+      "description": "Changing or canceling an order"
+    },
+    {
+      "name": "order_status",
+      "description": "Checking the status of an order"
+    },
+    {
+      "name": "product_info",
+      "description": "Customer wants information about a product"
+    },
+    {
+      "name": "account_issues",
+      "description": "Issues with account, including login problems and missing credits"
+    },
+    {
+      "name": "pricing_complaint",
+      "description": "Complaining about prices or requesting price matching"
+    },
+    {
+      "name": "payment_method",
+      "description": "Changing payment method"
+    },
+    {
+      "name": "general_inquiry",
+      "description": "general inquiry about product, policy, or procedure"
+    },
+    {
+      "name": "refund_request",
+      "description": "request to refund item due to change of mind"
+    },
+    {
+      "name": "missing_credits",
+      "description": "Reporting missing credits or rewards from previous purchases"
+    },
+    {
+      "name": "payment_issues",
+      "description": "Troubleshooting payment issues (rejected credit card, missing credit)"
+    },
+    {
+      "name": "username_recovery",
+      "description": "Recovering a forgotten username"
+    },
+    {
+      "name": "extra_fee",
+      "description": "Complaining about extra fee"
+    },
+    {
+      "name": "refund_status",
+      "description": "Checking status of refund or requesting refund"
+    },
+    {
+      "name": "membership_info",
+      "description": "Customer wants to upgrade or check membership level"
+    },
+    {
+      "name": "account_info",
+      "description": "Changing account information, such as username, email, or password"
+    },
+    {
+      "name": "item_addition",
+      "description": "Customer wants to add item to existing order"
+    },
+    {
+      "name": "premium_membership",
+      "description": "Inquiring about premium membership benefits and requirements"
+    },
+    {
+      "name": "order_details",
+      "description": "Requesting information about an order"
+    },
+    {
+      "name": "refund",
+      "description": "Requesting a refund for an order"
+    },
+    {
+      "name": "wrong_item",
+      "description": "Reporting receiving the wrong item in an order"
+    },
+    {
+      "name": "missing_item",
+      "description": "Reporting that an item was missing from an order"
+    },
+    {
+      "name": "size_issue",
+      "description": "Reporting a size issue with an item"
+    },
+    {
+      "name": "item_availability",
+      "description": "Inquiring about the availability of an item"
+    },
+    {
+      "name": "website_issues",
+      "description": "Reporting issues with the website, including loading speed or functionality"
+    },
+    {
+      "name": "subscription",
+      "description": "inquiry about subscription or membership level"
+    },
+    {
+      "name": "general_complaint",
+      "description": "Expressing dissatisfaction or frustration with the company"
+    },
+    {
+      "name": "order_cancel",
+      "description": "Canceling order"
+    },
+    {
+      "name": "order_return",
+      "description": "requesting return or refund for order"
+    },
+    {
+      "name": "order_refund",
+      "description": "Requesting refund"
+    },
+    {
+      "name": "shipping_info",
+      "description": "Asking about shipping options, pricing, or estimated delivery times"
+    },
+    {
+      "name": "account_access",
+      "description": "Troubleshooting account access issues, including forgotten passwords"
+    },
+    {
+      "name": "item_info",
+      "description": "Asking about item details"
+    },
+    {
+      "name": "price_change",
+      "description": "inquiry about price change from previous day"
+    },
+    {
+      "name": "membership_benefits",
+      "description": "inquiring about the benefits of a membership"
+    },
+    {
+      "name": "promo_code",
+      "description": "Customer has an issue with a promo code"
+    },
+    {
+      "name": "delivery_time",
+      "description": "Complaining about delivery time"
+    },
+    {
+      "name": "payment_method_change",
+      "description": "Changing the payment method for an order"
+    },
+    {
+      "name": "out_of_stock_item",
+      "description": "Reporting an out of stock item and requesting a back-order or alternative"
+    },
+    {
+      "name": "search_issue",
+      "description": "Experiencing issues with the search function on the website"
+    },
+    {
+      "name": "account_issue",
+      "description": "issue with account, including wrong name, wrong address, and account locked"
+    },
+    {
+      "name": "subscription_removal",
+      "description": "Removing a subscription from an account"
+    },
+    {
+      "name": "subscription_cancellation",
+      "description": "Inquiring about subscription cancellation policy"
+    },
+    {
+      "name": "order_change",
+      "description": "Making changes to an existing order"
+    },
+    {
+      "name": "payment_issue",
+      "description": "Customer has an issue with a payment"
+    },
+    {
+      "name": "account_security",
+      "description": "Concerns about account security or unauthorized activity"
+    },
+    {
+      "name": "premium_membership_levels",
+      "description": "Inquiring about the different levels of premium membership and their benefits"
+    },
+    {
+      "name": "refunding_payment",
+      "description": "Requesting a refund for a payment made in error"
+    },
+    {
+      "name": "customer_service_question",
+      "description": "Asking a general question about customer service or policies"
+    },
+    {
+      "name": "order_issue",
+      "description": "issue with order, including incorrect items, wrong delivery time, and missing items"
+    },
+    {
+      "name": "account_problem",
+      "description": "Problems with a customer's account, such as incorrect address, missing username, or password issue"
+    },
+    {
+      "name": "price_discrepancy",
+      "description": "Concerns about price discrepancies, such as cheaper prices at other stores"
+    },
+    {
+      "name": "return_request",
+      "description": "Requesting to return a product, often due to incorrect size or defect"
+    },
+    {
+      "name": "shipping_issue",
+      "description": "issue with shipping, including incorrect delivery time and delayed delivery"
+    },
+    {
+      "name": "charge_issue",
+      "description": "Customer has an issue with a charge on their account"
+    },
+    {
+      "name": "website_issue",
+      "description": "issue with the website"
+    },
+    {
+      "name": "return_policy",
+      "description": "Inquiring about return policy and procedures"
+    },
+    {
+      "name": "password_reset",
+      "description": "issue with password reset or account access"
+    },
+    {
+      "name": "refund_policy",
+      "description": "Inquiring about refund policies or asking for clarification on refunds"
+    },
+    {
+      "name": "returns",
+      "description": "Reporting issues with returns or asking about return policies"
+    },
+    {
+      "name": "product_care",
+      "description": "Ask about care instructions for specific products, such as stains or fabric types."
+    },
+    {
+      "name": "store_hours",
+      "description": "inquiring about store hours or location"
+    },
+    {
+      "name": "subscription_question",
+      "description": "Have questions about subscription benefits, pricing, or promotional packages."
+    },
+    {
+      "name": "wrong_order",
+      "description": "Customer received wrong order or was charged for wrong item"
+    },
+    {
+      "name": "invalid_promo_code",
+      "description": "Customer's promo code was not valid"
+    },
+    {
+      "name": "cart_issue",
+      "description": "Customer had issue with adding items to cart or checking out"
+    },
+    {
+      "name": "stalled_website",
+      "description": "Customer had issue with website being slow or unresponsive"
+    },
+    {
+      "name": "subscription_issue",
+      "description": "Customer has an issue with their subscription"
+    },
+    {
+      "name": "return_issue",
+      "description": "Customer had issue with returning item (defective, wrong item, etc.)"
+    },
+    {
+      "name": "refund_issue",
+      "description": "Customer has an issue with a refund"
+    },
+    {
+      "name": "general_question",
+      "description": "Customer had general question about website or store"
+    },
+    {
+      "name": "returning_item",
+      "description": "Returning an item due to wrong size, defect, or personal preference"
+    },
+    {
+      "name": "price_difference",
+      "description": "Concerns about price differences between AcmeBrands and other retailers"
+    },
+    {
+      "name": "shipping_issues",
+      "description": "Issues with shipping address, delivery status, or package misdirection"
+    },
+    {
+      "name": "account_management",
+      "description": "Customers had questions or issues with their accounts, such as missing credits or membership levels."
+    },
+    {
+      "name": "warranty_inquiries",
+      "description": "Inquiries about product warranties"
+    },
+    {
+      "name": "order_confirmation",
+      "description": "Issues with order confirmation, such as duplicate orders or incorrect quantities"
+    },
+    {
+      "name": "refund_requests",
+      "description": "Refund requests due to personal preferences, size issues, or other reasons"
+    },
+    {
+      "name": "membership_questions",
+      "description": "Questions about premium membership benefits, such as free shipping and promo codes"
+    },
+    {
+      "name": "return_item",
+      "description": "requesting a return or exchange"
+    },
+    {
+      "name": "missing_promo_code",
+      "description": "issue with promo code not being accepted"
+    },
+    {
+      "name": "credit_card_rejection",
+      "description": "credit card being rejected during checkout"
+    },
+    {
+      "name": "change_delivery_time",
+      "description": "requesting to change the delivery time of an order"
+    },
+    {
+      "name": "order_delivery",
+      "description": "issue with order delivery"
+    },
+    {
+      "name": "grass_stain_removal",
+      "description": "requesting advice on removing a grass stain"
+    },
+    {
+      "name": "membership_levels",
+      "description": "Questions about membership levels, benefits, or requirements"
+    },
+    {
+      "name": "promo_codes",
+      "description": "Issues with promo codes, discounts, or rewards"
+    },
+    {
+      "name": "order_cancellation",
+      "description": "Canceling or modifying an order"
+    },
+    {
+      "name": "charging_issues",
+      "description": "Issues with incorrect or duplicate charges"
+    },
+    {
+      "name": "login_issues",
+      "description": "Trouble logging in or accessing account information"
+    },
+    {
+      "name": "general_queries",
+      "description": "General questions about products, services, or policies"
+    },
+    {
+      "name": "login_and_security",
+      "description": "trouble with logging in, password reset, or security questions"
+    },
+    {
+      "name": "product_information",
+      "description": "Asking about product details (size, material, features)"
+    },
+    {
+      "name": "general_inquiries",
+      "description": "Asking general questions about membership benefits, pricing, or policies"
+    },
+    {
+      "name": "return_refund",
+      "description": "Customers had issues with returns or refunds, such as incorrect orders or delayed refunds."
+    },
+    {
+      "name": "technical_issue",
+      "description": "issue with website, including slow loading and search results not matching query"
+    },
+    {
+      "name": "address_update",
+      "description": "Customers needed to update their address."
+    },
+    {
+      "name": "monogram_cost",
+      "description": "Customers asked about the cost of monogramming."
+    },
+    {
+      "name": "login_issue",
+      "description": "Customers had issues logging in to their accounts."
+    },
+    {
+      "name": "complaint",
+      "description": "Customers had a complaint about an unauthorized charge."
+    },
+    {
+      "name": "subscription_issues",
+      "description": "Issues with subscription charges, refunds, or membership levels"
+    },
+    {
+      "name": "shipping_options",
+      "description": "Inquiring about shipping options, rates, or methods"
+    },
+    {
+      "name": "product_availability",
+      "description": "Notifying about out-of-stock products or price discrepancies"
+    },
+    {
+      "name": "change_shipping_address",
+      "description": "Customer wants to change their shipping address"
+    },
+    {
+      "name": "lost_order",
+      "description": "Customer claims to have lost their order"
+    },
+    {
+      "name": "phone_number_change",
+      "description": "Customer wants to change their phone number"
+    },
+    {
+      "name": "account_status",
+      "description": "Customer wants to check their account status"
+    },
+    {
+      "name": "two_factor_authentication",
+      "description": "Troubleshooting two-factor authentication issues (lost phone, forgotten email)"
+    },
+    {
+      "name": "product_return",
+      "description": "Customer wants to return a product"
+    },
+    {
+      "name": "order_quantity",
+      "description": "Customer claims to have received an incorrect quantity of items"
+    },
+    {
+      "name": "missing_product",
+      "description": "Customer claims to have received a missing product"
+    },
+    {
+      "name": "account_name_change",
+      "description": "Changing account name due to spelling error"
+    },
+    {
+      "name": "customization_options",
+      "description": "Inquiring about customization options (stitching, embroidery)"
+    },
+    {
+      "name": "password_recovery",
+      "description": "Recovering a forgotten password"
+    },
+    {
+      "name": "subscription_management",
+      "description": "Managing subscription payments, cancellations, and benefits"
+    },
+    {
+      "name": "technical_issues",
+      "description": "Reporting technical issues (spinning wheel, slow search bar)"
+    }
+  ],
+  "categories": [
+    {
+      "number": 1,
+      "name": "order_status",
+      "description": "Checking the status of an order"
+    },
+    {
+      "number": 2,
+      "name": "subscription_status",
+      "description": "Inquiry about subscription status and due date"
+    },
+    {
+      "number": 3,
+      "name": "payment_issues",
+      "description": "Troubleshooting payment issues"
+    },
+    {
+      "number": 4,
+      "name": "shipping_issues",
+      "description": "Issues with shipping address, delivery status, or package misdirection"
+    },
+    {
+      "number": 5,
+      "name": "order_modification",
+      "description": "Changing or canceling an order"
+    },
+    {
+      "number": 6,
+      "name": "refund_request",
+      "description": "Request to refund item due to change of mind"
+    },
+    {
+      "number": 7,
+      "name": "account_issues",
+      "description": "Issues with account, including login problems and missing credits"
+    },
+    {
+      "number": 8,
+      "name": "product_info",
+      "description": "Customer wants information about a product"
+    },
+    {
+      "number": 9,
+      "name": "general_inquiry",
+      "description": "General inquiry about product, policy, or procedure"
+    },
+    {
+      "number": 10,
+      "name": "website_issues",
+      "description": "Issue with the website, including loading speed or functionality"
+    }
+  ],
+  "n_categories": 10,
+  "n_unassigned": 0,
+  "tokens": {
+    "prompt": 513396,
+    "answer": 12676
+  }
+}

@@ -1,0 +1,795 @@
+{
+  "model": "llama3.1:8b",
+  "found": [
+    {
+      "name": "product_info_request",
+      "description": "asked for advice on removing a pasta sauce stain from a shirt (used 831 times)"
+    },
+    {
+      "name": "order_update",
+      "description": "Customer contacted the agent to update their payment method to a credit card for a specific order. (used 413 times)"
+    },
+    {
+      "name": "order_status",
+      "description": "Customer suspected they entered incorrect payment information. (used 367 times)"
+    },
+    {
+      "name": "return_product",
+      "description": "customer attempted to return item outside of return window (used 360 times)"
+    },
+    {
+      "name": "payment_issue",
+      "description": "Customer was having trouble completing a purchase of a $49 MK jeans due to their credit card being rejected. (used 357 times)"
+    },
+    {
+      "name": "website_issue",
+      "description": "Customer experienced slow loading times and issues with the search bar on the website. (used 310 times)"
+    },
+    {
+      "name": "account_recovery",
+      "description": "Customer couldn't access their account and needed help recovering their username. (used 297 times)"
+    },
+    {
+      "name": "refund_request",
+      "description": "Customer requested a refund for a $49 item they no longer wanted. (used 296 times)"
+    },
+    {
+      "name": "subscription_status",
+      "description": "Customer's subscription was inactive due to an unpaid balance. (used 273 times)"
+    },
+    {
+      "name": "price_issue",
+      "description": "Customer was upset about a price increase on a Tommy Hilfigger jeans item. (used 249 times)"
+    },
+    {
+      "name": "premium_subscription_info",
+      "description": "Customer inquired about obtaining a premium membership. (used 216 times)"
+    },
+    {
+      "name": "password_reset",
+      "description": "Customer contacted to reset their password (used 212 times)"
+    },
+    {
+      "name": "info_request",
+      "description": "Customer inquired about the hours of operation for a store. (used 195 times)"
+    },
+    {
+      "name": "shipping_info_request",
+      "description": "Customer inquired about the cost of overnight shipping. (used 184 times)"
+    },
+    {
+      "name": "product_availability",
+      "description": "Customer contacted customer service to inquire about the availability of the fall collection. (used 171 times)"
+    },
+    {
+      "name": "cart_issue",
+      "description": "Customer had issues adding items to their cart. (used 165 times)"
+    },
+    {
+      "name": "shipping_status",
+      "description": "Customer called to request a change to standard shipping on their order to avoid a high shipping fee. (used 162 times)"
+    },
+    {
+      "name": "account_update",
+      "description": "Customer wanted to change the phone number on their account. (used 152 times)"
+    },
+    {
+      "name": "shipping_cost_issue",
+      "description": "Customer inquired about a high shipping cost and requested a refund (used 107 times)"
+    },
+    {
+      "name": "promo_code_issue",
+      "description": "Customer was unable to use a promo code to make a purchase (used 107 times)"
+    },
+    {
+      "name": "premium_subscription",
+      "description": "Customer contacted customer service to confirm their premium subscription status and pay the annual fee. (used 106 times)"
+    },
+    {
+      "name": "two_factor_authentication_issue",
+      "description": "Customer lost phone used for two-factor authentication (used 88 times)"
+    },
+    {
+      "name": "two_factor_authentication",
+      "description": "Customer was unable to access their 2FA account due to not deregistering their old phone. (used 87 times)"
+    },
+    {
+      "name": "refund_status",
+      "description": "Customer contacted support to check the status of their refund (used 82 times)"
+    },
+    {
+      "name": "account_info_request",
+      "description": "Customer asked about writing a thank you letter to a store staff member. (used 81 times)"
+    },
+    {
+      "name": "return_product_wrong_color",
+      "description": "Customer contacted customer service to return a product that was the wrong color. (used 80 times)"
+    },
+    {
+      "name": "promo_code",
+      "description": "Customer contacted the agent to inquire about the validity period of promo codes. (used 79 times)"
+    },
+    {
+      "name": "order_issue",
+      "description": "Customer reported an extra fee added to their order. (used 77 times)"
+    },
+    {
+      "name": "product_enquiry",
+      "description": "Customer inquired about the product, specifically its origin and how to remove grass stains (used 74 times)"
+    },
+    {
+      "name": "order_change_request",
+      "description": "Customer contacted support to remove an item from their recent order. (used 73 times)"
+    },
+    {
+      "name": "premium_subscription_payment_issue",
+      "description": "Customer reported being charged twice for their premium subscription. (used 65 times)"
+    },
+    {
+      "name": "payment_issue_resolution",
+      "description": "Customer contacted support due to their credit card being unable to use on the website. (used 62 times)"
+    },
+    {
+      "name": "premium_membership_info",
+      "description": "Customer inquired about the benefits of a premium membership. (used 59 times)"
+    },
+    {
+      "name": "payment_method_issue",
+      "description": "Customer reported an incorrect payment method on their recent order (used 59 times)"
+    },
+    {
+      "name": "return_policy",
+      "description": "Customer inquired about return policy (used 55 times)"
+    },
+    {
+      "name": "missing_credit",
+      "description": "Customer reported a missing $40 credit on their account. (used 51 times)"
+    },
+    {
+      "name": "order_info_request",
+      "description": "Customer contacted customer service to inquire about an order and a promo code, but was unable to provide their account or order information. (used 48 times)"
+    },
+    {
+      "name": "premium_subscription_payment",
+      "description": "Customer needed to pay their subscription fee. (used 48 times)"
+    },
+    {
+      "name": "subscription_info",
+      "description": "Customer inquired about the consequences of making a late payment on their potential subscription. (used 45 times)"
+    },
+    {
+      "name": "product_info",
+      "description": "Customer inquired about removing a stain from a shirt they had purchased. (used 43 times)"
+    },
+    {
+      "name": "account_access_issue",
+      "description": "Customer was unable to access their account due to a forgotten username. (used 39 times)"
+    },
+    {
+      "name": "missing_package",
+      "description": "Customer contacted to inquire about a missing package that had been shipped 5 days prior. (used 37 times)"
+    },
+    {
+      "name": "product_availability_issue",
+      "description": "Expressed frustration with a boot being consistently out of stock (used 37 times)"
+    },
+    {
+      "name": "shipping_address_update",
+      "description": "Customer accidentally entered their old shipping address and wanted to update it. (used 35 times)"
+    },
+    {
+      "name": "shipping_update",
+      "description": "Contacted to update their shipping address (used 34 times)"
+    },
+    {
+      "name": "order_status_issue",
+      "description": "Customer contacted customer service to ask about the status of their order, which was showing a 5-day shipping time instead of the expected 2-day shipping. (used 30 times)"
+    },
+    {
+      "name": "refund_update",
+      "description": "Customer wanted to add an additional item to their current refund. (used 26 times)"
+    },
+    {
+      "name": "payment_update",
+      "description": "Customer contacted customer service to change their payment method on their account. (used 26 times)"
+    },
+    {
+      "name": "extra_fee_issue",
+      "description": "Customer reported an extra fee on their order, which they believed was added in error. (used 26 times)"
+    },
+    {
+      "name": "product_search_issue",
+      "description": "Customer was experiencing issues with their online search results. (used 26 times)"
+    },
+    {
+      "name": "subscription_issue",
+      "description": "Customer reported a subscription they didn't order. (used 25 times)"
+    },
+    {
+      "name": "subscription_payment",
+      "description": "The customer contacted the service to pay their annual subscription fee. (used 25 times)"
+    },
+    {
+      "name": "premium_subscription_issue",
+      "description": "Customer's premium subscription shopping service was not showing on their account (used 24 times)"
+    },
+    {
+      "name": "double_payment",
+      "description": "Customer was charged twice for a purchase (used 22 times)"
+    },
+    {
+      "name": "shipping_issue",
+      "description": "Customer reported an incorrect delivery time on their order. (used 21 times)"
+    },
+    {
+      "name": "general_issue",
+      "description": "inquired about an error in their shipping notification email (used 21 times)"
+    },
+    {
+      "name": "subscription_extension",
+      "description": "Customer requested extension on their subscription due to Gold membership benefits. (used 20 times)"
+    },
+    {
+      "name": "order_addition",
+      "description": "Customer wanted to add an item to their recently placed order that they had forgotten to include initially. (used 19 times)"
+    },
+    {
+      "name": "order_cancellation",
+      "description": "Customer contacted support to cancel an order due to high shipping costs. (used 19 times)"
+    },
+    {
+      "name": "cart_issue_resolution",
+      "description": "Customer contacted support for trouble adding an item to their cart. (used 19 times)"
+    },
+    {
+      "name": "membership_info",
+      "description": "Customer inquired about the benefits of membership (used 18 times)"
+    },
+    {
+      "name": "stock_issue",
+      "description": "Was frustrated with the store's stock issues. (used 17 times)"
+    },
+    {
+      "name": "refund_policy",
+      "description": "Customer inquired about the refund policy. (used 16 times)"
+    },
+    {
+      "name": "missing_order",
+      "description": "Customer contacted support about a missing order. (used 16 times)"
+    },
+    {
+      "name": "price_issue_resolution",
+      "description": "Customer contacted support to complain about the price of an item. (used 16 times)"
+    },
+    {
+      "name": "shipping_status_issue",
+      "description": "Customer's order had been missing for 9 days (used 15 times)"
+    },
+    {
+      "name": "gift_wrapping_info",
+      "description": "The customer inquired about gift wrapping services. (used 15 times)"
+    },
+    {
+      "name": "slow_website_issue",
+      "description": "Customer had a slow website issue (used 13 times)"
+    },
+    {
+      "name": "order_correction",
+      "description": "Customer contacted customer service to report an error in their order, which showed they had ordered two of the same item when they had only intended to order one (used 13 times)"
+    },
+    {
+      "name": "missing_charge",
+      "description": "Reported being charged for an order they never made. (used 13 times)"
+    },
+    {
+      "name": "free_shipping",
+      "description": "Customer inquired about qualifying for free shipping. (used 12 times)"
+    },
+    {
+      "name": "order_status_issue_resolution",
+      "description": "Customer contacted support to check the status of their order. (used 12 times)"
+    },
+    {
+      "name": "subscription_payment_issue",
+      "description": "Customer contacted support to request an extension, but was informed they only qualify for a 1-day extension as a Silver member. (used 12 times)"
+    },
+    {
+      "name": "high_shipping_cost_issue",
+      "description": "Customer contacted support due to high shipping cost. (used 11 times)"
+    },
+    {
+      "name": "subscription_cancellation",
+      "description": "Customer inquired about canceling their subscription. (used 11 times)"
+    },
+    {
+      "name": "payment_method_update",
+      "description": "Customer contacted the agent to change their primary payment method due to an issue with a recent order. (used 11 times)"
+    },
+    {
+      "name": "order_status_request",
+      "description": "The customer contacted the agent to check their order status. (used 11 times)"
+    },
+    {
+      "name": "product_return",
+      "description": "Customer contacted support to return a jacket due to a large stain. (used 10 times)"
+    },
+    {
+      "name": "store_info_request",
+      "description": "The customer, a busy executive from a successful tire company, called to ask about the hours of the nearest AcmeBrands store to their location in San Lima, WA. (used 10 times)"
+    },
+    {
+      "name": "website_issue_resolution",
+      "description": "Customer contacted support due to frustration with the website's slow loading speed. (used 9 times)"
+    },
+    {
+      "name": "annual_sale",
+      "description": "Customer inquired about the annual sale and its dates. (used 8 times)"
+    },
+    {
+      "name": "scam_subscription",
+      "description": "Customer reported receiving an email about a subscription they did not want (used 8 times)"
+    },
+    {
+      "name": "return_product_stain",
+      "description": "Customer contacted AcmeBrands to return a product with a stain, and the agent assisted them with the return process. (used 8 times)"
+    },
+    {
+      "name": "premium_membership_info_request",
+      "description": "Inquired about the benefits of a premium membership (used 8 times)"
+    },
+    {
+      "name": "account_info_update",
+      "description": "Customer's name was spelled incorrectly and needed to be corrected (used 8 times)"
+    },
+    {
+      "name": "missing_item",
+      "description": "Customer reported being charged for jeans they never ordered and the agent investigated and confirmed it was an error on their end (used 7 times)"
+    },
+    {
+      "name": "order_return",
+      "description": "The customer contacted the company to return an order due to losing their job and needing the refund for bills. (used 6 times)"
+    },
+    {
+      "name": "warranty_info",
+      "description": "The customer inquired about the warranty on a pair of Hilfiger boots. (used 6 times)"
+    },
+    {
+      "name": "account_info",
+      "description": "Customer inquired about free international shipping on their account. (used 5 times)"
+    },
+    {
+      "name": "forgotten_username",
+      "description": "Customer forgot their username and needed assistance. (used 5 times)"
+    },
+    {
+      "name": "fee_issue",
+      "description": "Customer reported a fee on their order (used 5 times)"
+    },
+    {
+      "name": "payment_info_request",
+      "description": "Customer contacted support to verify their payment method. (used 5 times)"
+    },
+    {
+      "name": "new_conversation",
+      "description": "Customer was upset that a promo code they received over a week ago did not work. (used 5 times)"
+    },
+    {
+      "name": "missing_credits",
+      "description": "Customer contacted support to report missing credits that they believed were from a return. (used 5 times)"
+    },
+    {
+      "name": "promo_code_issue_resolution",
+      "description": "Customer's promo code was not working. (used 5 times)"
+    },
+    {
+      "name": "promo_code_info",
+      "description": "The customer contacted the company to inquire about the expiration date of a promo code they had received 5 days ago. (used 5 times)"
+    },
+    {
+      "name": "consequence_late_subscription_payment",
+      "description": "Customer inquired about the consequences of being late on a subscription payment (used 4 times)"
+    },
+    {
+      "name": "two_factor_authentication_issue_resolution",
+      "description": "Customer contacted support after losing their phone, which was used for two-factor authentication. (used 4 times)"
+    },
+    {
+      "name": "subscription_late_fee",
+      "description": "Customer inquired about the consequences of being late on a subscription payment. (used 4 times)"
+    },
+    {
+      "name": "two_factor_authentication_lost",
+      "description": "Customer lost their phone used for two-factor authentication and couldn't access their account. (used 4 times)"
+    },
+    {
+      "name": "premium_subscription_extension",
+      "description": "Customer requested an extension on their premium subscription due to financial constraints. (used 4 times)"
+    },
+    {
+      "name": "membership_info_request",
+      "description": "Customer inquired about premium memberships. (used 4 times)"
+    },
+    {
+      "name": "shipping_info_issue",
+      "description": "Customer contacted AcmeBrand to inquire about an incorrect email confirmation stating they had ordered 2 items, when in fact they had only ordered 1. (used 4 times)"
+    },
+    {
+      "name": "product_availability_request",
+      "description": "The customer inquired about the availability of Calvin Klein boots. (used 4 times)"
+    },
+    {
+      "name": "username_recovery",
+      "description": "Customer forgot their username and needed assistance recovering it. (used 4 times)"
+    },
+    {
+      "name": "returning_order",
+      "description": "Customer wanted to return an order due to being the wrong size. (used 3 times)"
+    },
+    {
+      "name": "address_correction",
+      "description": "Customer wanted to correct a typo in their address. (used 3 times)"
+    },
+    {
+      "name": "incorrect_charge",
+      "description": "Customer was charged for an item they never purchased (used 3 times)"
+    },
+    {
+      "name": "order_cancelation",
+      "description": "Customer contacted support to report receiving an email about an order they did not place. (used 3 times)"
+    },
+    {
+      "name": "card_declined",
+      "description": "Customer's card was declined due to expiration. (used 3 times)"
+    },
+    {
+      "name": "address_update",
+      "description": "Customer contacted AcmeBrands to change their address. (used 3 times)"
+    },
+    {
+      "name": "general_stock_shortage",
+      "description": "Customer inquired about the general stock shortage of products. (used 3 times)"
+    },
+    {
+      "name": "shipping_info",
+      "description": "Customer inquired about shipping outside of the country. (used 3 times)"
+    },
+    {
+      "name": "refund_status_issue",
+      "description": "Customer inquired about the status of their refund, which had not yet been processed. (used 3 times)"
+    },
+    {
+      "name": "shipping_status_request",
+      "description": "The customer contacted customer service to see if they could speed up the shipping on an order. (used 3 times)"
+    },
+    {
+      "name": "invalid_promo_code",
+      "description": "Customer contacted support to report an invalid promo code. (used 3 times)"
+    },
+    {
+      "name": "subscription_payment_issue_resolution",
+      "description": "Customer contacted support to request an extension on their subscription payment. (used 2 times)"
+    },
+    {
+      "name": "delayed_delivery",
+      "description": "Customer was concerned about a delayed delivery of their Michael Kors boots. (used 2 times)"
+    },
+    {
+      "name": "product_price_issue",
+      "description": "Extra fee on Calvin Klein shirt order. (used 2 times)"
+    },
+    {
+      "name": "subscription_benefit",
+      "description": "inquired about their subscription benefits, specifically international shipping (used 2 times)"
+    },
+    {
+      "name": "missing_package_issue",
+      "description": "Reported that their package had not arrived (used 2 times)"
+    },
+    {
+      "name": "subscription_status_issue",
+      "description": "Reported a concern about their subscription being removed or cancelled (used 2 times)"
+    },
+    {
+      "name": "payment_extension",
+      "description": "The customer requested an extension on their subscription payment due to credit card issues. (used 2 times)"
+    },
+    {
+      "name": "subscription_scam",
+      "description": "Customer contacted support to report an unknown subscription on their account, which they claimed they didn't sign up for. (used 2 times)"
+    },
+    {
+      "name": "shipping_info_update",
+      "description": "Updated their shipping information, which they wanted to apply to future orders (used 2 times)"
+    },
+    {
+      "name": "refund_update_request",
+      "description": "Customer contacted to add an item to an existing refund. (used 2 times)"
+    },
+    {
+      "name": "order_return_request",
+      "description": "The customer contacted customer service to return an item they no longer needed. (used 2 times)"
+    },
+    {
+      "name": "order_error",
+      "description": "The customer reported an error in their order confirmation, stating they only ordered one jacket but the confirmation showed two. (used 2 times)"
+    },
+    {
+      "name": "order_verification",
+      "description": "The customer contacted AcmeBrand to verify the items shipped were the ones listed on their order. (used 2 times)"
+    },
+    {
+      "name": "account_access_issue_resolution",
+      "description": "Customer forgot their username and the agent retrieved it for them. (used 2 times)"
+    },
+    {
+      "name": "shipping_cost_issue_resolution",
+      "description": "Customer contacted about a high shipping fee on their order and the agent waived the fee. (used 2 times)"
+    },
+    {
+      "name": "subscription_balance",
+      "description": "Customer contacted customer service to inquire about their subscription balance. (used 2 times)"
+    },
+    {
+      "name": "credit_card_issue",
+      "description": "The customer's credit card was being rejected due to an incorrect expiration date, which was resolved by the customer themselves. (used 2 times)"
+    },
+    {
+      "name": "account_payment",
+      "description": "Customer inquired about their annual subscription fee. (used 2 times)"
+    },
+    {
+      "name": "discount_issue",
+      "description": "Customer was experiencing issues with a discount promo code. (used 1 times)"
+    },
+    {
+      "name": "rejected_credit_card_transaction",
+      "description": "Customer's credit card was rejected due to an expired credit card. (used 1 times)"
+    },
+    {
+      "name": "annual_sale_missed",
+      "description": "Customer inquired about the annual sale, which had ended on January 31st. (used 1 times)"
+    },
+    {
+      "name": "return_item_stain",
+      "description": "Customer wanted to return an item with a stain on it. (used 1 times)"
+    },
+    {
+      "name": "2fa_issue",
+      "description": "Customer lost phone required for 2-factor authentication. (used 1 times)"
+    },
+    {
+      "name": "delivery_issue",
+      "description": "Customer received incorrect delivery date for their MK jacket. (used 1 times)"
+    },
+    {
+      "name": "late_fee_info",
+      "description": "The customer, Chloe Zhang, contacted customer service to inquire about late payment fees on her subscription. (used 1 times)"
+    },
+    {
+      "name": "premium_account_info_request",
+      "description": "Customer contacted the company to inquire about international shipping with their premium account. (used 1 times)"
+    },
+    {
+      "name": "invalid_credit_card_issue",
+      "description": "Customer contacted with an issue of an invalid credit card on their site. (used 1 times)"
+    },
+    {
+      "name": "price_match",
+      "description": "The customer was looking to purchase Calvin Klein Boots from the company, but noticed they were cheaper on Amazon. (used 1 times)"
+    },
+    {
+      "name": "cancellation_request",
+      "description": "The customer contacted to cancel a subscription. (used 1 times)"
+    },
+    {
+      "name": "account_status",
+      "description": "Customer believed their account had been cancelled (used 1 times)"
+    },
+    {
+      "name": "invalid_promo_code_resolution",
+      "description": "Customer contacted support to report an issue with a promo code, and the agent provided an alternative code. (used 1 times)"
+    },
+    {
+      "name": "high_shipping_fee",
+      "description": "Customer complained about high shipping fee and requested a refund (used 1 times)"
+    },
+    {
+      "name": "high_shipping_cost_issue_resolution",
+      "description": "Customer was dissatisfied with high shipping costs and wanted a refund. (used 1 times)"
+    },
+    {
+      "name": "subscription_issue_resolution",
+      "description": "Customer's premium subscription was added to their account without consent and was refunded. (used 1 times)"
+    },
+    {
+      "name": "refund_status_issue_resolution",
+      "description": "Customer inquired about the status of their refund. (used 1 times)"
+    },
+    {
+      "name": "missing_refund",
+      "description": "Customer contacted the company to inquire about a missing refund. (used 1 times)"
+    },
+    {
+      "name": "delayed_shipment",
+      "description": "Customer contacted AcmeBrands to inquire about a missing shipment that had been delayed for 9 days. (used 1 times)"
+    },
+    {
+      "name": "expired_promo_code",
+      "description": "Customer contacted the company to inquire about the expiration date of their promo code. (used 1 times)"
+    },
+    {
+      "name": "add_item_to_order",
+      "description": "Customer asked to add a pair of Michael Kors boots to their existing order. (used 1 times)"
+    },
+    {
+      "name": "premium_membership",
+      "description": "Customer inquired about the differences between Silver and Gold membership levels. (used 1 times)"
+    },
+    {
+      "name": "subscription_status_request",
+      "description": "The customer contacted AcmeBrand to check on the status of their subscription and pay any outstanding balance. (used 1 times)"
+    },
+    {
+      "name": "product_exchange",
+      "description": "Customer contacted to exchange a product they had purchased for a different color (used 1 times)"
+    },
+    {
+      "name": "shipping_address_change",
+      "description": "Customer wanted to change shipping address for an order in transit. (used 1 times)"
+    },
+    {
+      "name": "refund_status_inquiry",
+      "description": "Customer inquired about the status of their refund. (used 1 times)"
+    },
+    {
+      "name": "product_release_date",
+      "description": "Customer inquired about the release date of the fall collection. (used 1 times)"
+    },
+    {
+      "name": "order_issue_with_stain",
+      "description": "Customer had an issue with an order, but was also looking for help with removing a stain from their clothing. (used 1 times)"
+    },
+    {
+      "name": "username_recovery_again",
+      "description": "Customer forgot their username and needed assistance recovering it. (used 1 times)"
+    },
+    {
+      "name": "price_increase",
+      "description": "Customer was concerned about the price increase of an item they were interested in purchasing. (used 1 times)"
+    },
+    {
+      "name": "shipping_address_confirmation",
+      "description": "Customer wanted to confirm their shipping address. (used 1 times)"
+    },
+    {
+      "name": "username_recovery_with_info",
+      "description": "Customer provided information to aid in recovering their username. (used 1 times)"
+    },
+    {
+      "name": "price_comparison",
+      "description": "Customer was concerned about the high price of an item compared to another website. (used 1 times)"
+    },
+    {
+      "name": "shipping_rate_info",
+      "description": "Customer inquired about the price of overnight shipping. (used 1 times)"
+    },
+    {
+      "name": "premium_membership_requirements",
+      "description": "Customer inquired about the membership requirements and costs for a premium membership. (used 1 times)"
+    },
+    {
+      "name": "package_status_issue",
+      "description": "Customer inquired about the status of their package. (used 1 times)"
+    },
+    {
+      "name": "wrong_size_return",
+      "description": "Returned an item due to the wrong size being ordered (used 1 times)"
+    },
+    {
+      "name": "return_policy_info_request",
+      "description": "Inquired about the return policy (used 1 times)"
+    },
+    {
+      "name": "exchange_request",
+      "description": "Wanted to exchange a pair of jeans for a shirt (used 1 times)"
+    },
+    {
+      "name": "shipping_cost_info_request",
+      "description": "Clarified whether shipping costs were included in the displayed price (used 1 times)"
+    },
+    {
+      "name": "premium_subscription_info_request",
+      "description": "Inquired about their premium subscription status and due date (used 1 times)"
+    },
+    {
+      "name": "annual_sale_info_request",
+      "description": "Inquired about the timing of the company's annual sale (used 1 times)"
+    },
+    {
+      "name": "return_process",
+      "description": "Contacted customer service to return a pair of boots that were too small (used 1 times)"
+    },
+    {
+      "name": "credit_card_rejection_issue",
+      "description": "Was unable to complete an order on the website due to a credit card rejection issue (used 1 times)"
+    },
+    {
+      "name": "general_info_request",
+      "description": "The customer inquired about the expiration date of a promo code they had, which was for a gift. (used 1 times)"
+    },
+    {
+      "name": "update_shipping_info",
+      "description": "The customer contacted AcmeCorp to update their shipping details due to a recent change in their living situation. (used 1 times)"
+    },
+    {
+      "name": "premium_subscription_status",
+      "description": "Customer contacted to confirm their premium subscription status. (used 1 times)"
+    },
+    {
+      "name": "remove_item_from_order",
+      "description": "Customer asked to remove a mistakenly added item from their order. (used 1 times)"
+    },
+    {
+      "name": "account_access",
+      "description": "Customer lost their phone and needed help accessing their account. (used 1 times)"
+    }
+  ],
+  "categories": [
+    {
+      "number": 1,
+      "name": "order_issue",
+      "description": "Issues with orders, including status, payment, and shipping."
+    },
+    {
+      "number": 2,
+      "name": "payment_issue",
+      "description": "Problems with payment methods, including credit cards and promo codes."
+    },
+    {
+      "number": 3,
+      "name": "account_access",
+      "description": "Issues with account access, including forgotten usernames and passwords."
+    },
+    {
+      "number": 4,
+      "name": "return_product",
+      "description": "Returns and exchanges, including products with defects or wrong sizes."
+    },
+    {
+      "number": 5,
+      "name": "shipping_info",
+      "description": "Information about shipping, including costs, times, and addresses."
+    },
+    {
+      "number": 6,
+      "name": "product_info",
+      "description": "Information about products, including availability, prices, and features."
+    },
+    {
+      "number": 7,
+      "name": "website_issue",
+      "description": "Issues with the website, including slow loading times and search problems."
+    },
+    {
+      "number": 8,
+      "name": "subscription_status",
+      "description": "Status and management of subscriptions, including payments and benefits."
+    },
+    {
+      "number": 9,
+      "name": "refund_request",
+      "description": "Requests for refunds, including missing credits and incorrect charges."
+    },
+    {
+      "number": 10,
+      "name": "general_issue",
+      "description": "General issues and questions, including store hours, policies, and promotions."
+    }
+  ],
+  "n_categories": 10,
+  "n_unassigned": 0,
+  "tokens": {
+    "prompt": 1025105,
+    "answer": 232115
+  }
+}

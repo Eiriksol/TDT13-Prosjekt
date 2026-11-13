@@ -1,0 +1,177 @@
+{
+  "model": "llama3.1:8b",
+  "found": [],
+  "categories": [
+    {
+      "name": "account_access/recover_password"
+    },
+    {
+      "name": "account_access/recover_username"
+    },
+    {
+      "name": "account_access/reset_2fa"
+    },
+    {
+      "name": "manage_account/manage_change_address"
+    },
+    {
+      "name": "manage_account/manage_change_name"
+    },
+    {
+      "name": "manage_account/manage_change_phone"
+    },
+    {
+      "name": "manage_account/manage_payment_method"
+    },
+    {
+      "name": "manage_account/status_credit_missing"
+    },
+    {
+      "name": "manage_account/status_service_added"
+    },
+    {
+      "name": "manage_account/status_service_removed"
+    },
+    {
+      "name": "manage_account/status_shipping_question"
+    },
+    {
+      "name": "order_issue/manage_cancel"
+    },
+    {
+      "name": "order_issue/manage_create"
+    },
+    {
+      "name": "order_issue/manage_downgrade"
+    },
+    {
+      "name": "order_issue/manage_upgrade"
+    },
+    {
+      "name": "order_issue/status_delivery_time"
+    },
+    {
+      "name": "order_issue/status_mystery_fee"
+    },
+    {
+      "name": "order_issue/status_payment_method"
+    },
+    {
+      "name": "order_issue/status_quantity"
+    },
+    {
+      "name": "product_defect/refund_initiate"
+    },
+    {
+      "name": "product_defect/refund_status"
+    },
+    {
+      "name": "product_defect/refund_update"
+    },
+    {
+      "name": "product_defect/return_color"
+    },
+    {
+      "name": "product_defect/return_size"
+    },
+    {
+      "name": "product_defect/return_stain"
+    },
+    {
+      "name": "purchase_dispute/bad_price_competitor"
+    },
+    {
+      "name": "purchase_dispute/bad_price_yesterday"
+    },
+    {
+      "name": "purchase_dispute/mistimed_billing_already_returned"
+    },
+    {
+      "name": "purchase_dispute/mistimed_billing_never_bought"
+    },
+    {
+      "name": "purchase_dispute/out_of_stock_general"
+    },
+    {
+      "name": "purchase_dispute/out_of_stock_one_item"
+    },
+    {
+      "name": "purchase_dispute/promo_code_invalid"
+    },
+    {
+      "name": "purchase_dispute/promo_code_out_of_date"
+    },
+    {
+      "name": "shipping_issue/cost"
+    },
+    {
+      "name": "shipping_issue/manage"
+    },
+    {
+      "name": "shipping_issue/missing"
+    },
+    {
+      "name": "shipping_issue/status"
+    },
+    {
+      "name": "single_item_query/boots"
+    },
+    {
+      "name": "single_item_query/jacket"
+    },
+    {
+      "name": "single_item_query/jeans"
+    },
+    {
+      "name": "single_item_query/shirt"
+    },
+    {
+      "name": "storewide_query/membership"
+    },
+    {
+      "name": "storewide_query/policy"
+    },
+    {
+      "name": "storewide_query/pricing"
+    },
+    {
+      "name": "storewide_query/timing"
+    },
+    {
+      "name": "subscription_inquiry/manage_dispute_bill"
+    },
+    {
+      "name": "subscription_inquiry/manage_extension"
+    },
+    {
+      "name": "subscription_inquiry/manage_pay_bill"
+    },
+    {
+      "name": "subscription_inquiry/status_due_amount"
+    },
+    {
+      "name": "subscription_inquiry/status_due_date"
+    },
+    {
+      "name": "subscription_inquiry/status_questions"
+    },
+    {
+      "name": "troubleshoot_site/credit_card"
+    },
+    {
+      "name": "troubleshoot_site/search_results"
+    },
+    {
+      "name": "troubleshoot_site/shopping_cart"
+    },
+    {
+      "name": "troubleshoot_site/slow_speed"
+    }
+  ],
+  "n_categories": 55,
+  "n_unassigned": 0,
+  "tokens": {
+    "prompt": 821850,
+    "answer": 7028
+  }
+}

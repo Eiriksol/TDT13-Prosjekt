@@ -1,0 +1,124 @@
+{
+  "topics": {
+    "0": [
+      "customer",
+      "agent",
+      "order",
+      "id",
+      "help",
+      "email",
+      "shipping",
+      "account",
+      "address",
+      "return"
+    ],
+    "1": [
+      "customer",
+      "agent",
+      "order",
+      "id",
+      "thank",
+      "account",
+      "help",
+      "shipping",
+      "address",
+      "today"
+    ],
+    "2": [
+      "subscription",
+      "agent",
+      "customer",
+      "account",
+      "id",
+      "pay",
+      "help",
+      "thank",
+      "today",
+      "like"
+    ],
+    "3": [
+      "agent",
+      "customer",
+      "password",
+      "help",
+      "phone",
+      "number",
+      "account",
+      "username",
+      "email",
+      "thank"
+    ],
+    "4": [
+      "agent",
+      "customer",
+      "stock",
+      "help",
+      "boots",
+      "know",
+      "cart",
+      "item",
+      "try",
+      "thank"
+    ],
+    "5": [
+      "try",
+      "customer",
+      "agent",
+      "website",
+      "card",
+      "help",
+      "logging",
+      "slow",
+      "search",
+      "ok"
+    ],
+    "6": [
+      "jacket",
+      "agent",
+      "customer",
+      "wash",
+      "know",
+      "help",
+      "water",
+      "shirt",
+      "washing",
+      "shrink"
+    ],
+    "7": [
+      "membership",
+      "agent",
+      "members",
+      "bronze",
+      "year",
+      "gold",
+      "purchases",
+      "customer",
+      "silver",
+      "premium"
+    ],
+    "8": [
+      "code",
+      "promo",
+      "days",
+      "agent",
+      "customer",
+      "ago",
+      "invalid",
+      "new",
+      "use",
+      "help"
+    ],
+    "9": [
+      "collection",
+      "sale",
+      "annual",
+      "fall",
+      "january",
+      "3rd",
+      "spring",
+      "agent",
+      "customer",
+      "help"
+    ]
+  }
+}
